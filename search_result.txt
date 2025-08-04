@@ -1,0 +1,46 @@
+(@ kalilinux-gvp [Running] - Oracle VirtualBox
+
+q@mp- Apps Places Aug 4 08:30
+
+root@kali: ~ = 000
+
+# Nmap done at Mon Aug 4 08:21:32 2025 -- 256 IP addresses (3 hosts up) scanned in 5.78 seconds | 2Phony Wireless Tools Help
+sts sudo nmap -sS 192.168.43.0/24 =
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-08-04 08:28 CDT > | = aa oy
+Nmap scan report for 192.168.43.1 al
+Host is up (0.0036s latency).
+Not shown: 999 closed tcp ports (reset) destination Protocol Length Info
+PORT STATE SERVICE 92.168.43.1 87 Standal
+53/tcp open domain 92.168.43.219 87 Standal
+MAC Address: 8A:06:B7:3B:1F:4E (Unknown) (92.168.43.130 58 53095
+92.168.43.1 58 53095
+Nmap scan report for 192.168.43.130 92.168. 43.130 58 53095
+Host is up (0.00032s latency). 92.168 43.1 58 53095
+Not shown: 993 closed tcp ports (reset)
+PORT STATE SERVICE
+
+SEV CE Cae 92.168. 43.130 58 53095
+139/tcp open netbios-ssn 92.168.43.4 58 53095
+
+445/tcp open microsoft-ds 92.168.43.130 58 53095
+903/tcp open iss-console-mgr 92.168.43.1 58 53095
+1521/tcp open oracle 92.168.43.130 58 53095
+5357/tcp open wsdapi 92.168.43.1 58 53095
+8080/tcp open http-proxy
+
+MAC Address: 50:EB:71:E5:E5:0C (Intel Corporate)
+
+th1
+
+92.168.43.219 60 139 —
+
+Nmap scan report for 192.168.43.219 92.168.43.130 58 53095
+Host is up (@.000010s latency). 92.168.43.1 58 53095
+All 1000 scanned ports on 192.168.43.219 are in ignored states. 92.168.43.130 58 53095
+
+Not shown: 1000 closed tcp ports (reset) 50 eb 71 eS e5 Oc 08 00 27 f4
+
+Nmap done: 256 IP addresses (3 hosts up) scanned in 5.87 seconds i 80 2c 62 2d 68 68 39 66 a6 fig
+
+roota@kalis.!? splayed: 4102 (88.4%) - Dropped: 0 (0.0%) | Profile: D
+
